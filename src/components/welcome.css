@@ -1,0 +1,20 @@
+
+.welcome {
+  background-color: #dbeafe;
+  padding: 40px;
+  margin: 30px auto;
+  width: 90%;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.welcome h1 {
+  color: #1e40af;
+  margin-bottom: 15px;
+  font-size: 30px;
+}
+
+.welcome p {
+  color: #475569;
+  font-size: 17px;
+}
